@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
   (
     body: Column(
       children: [
-        Image.asset('assets/sunlit-yellow-left.png'),
+        Image.asset('assets/sunlit-yellow-left.png'), Text("mufi"),  Image.asset('assets/sunlit-yellow-left.png'),
       ],
     ),
   );
